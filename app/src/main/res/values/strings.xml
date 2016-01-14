@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Thora IT has began</string>
+    <string name="titulo">Informe seu nome</string>
+    <string name="surpreenda_me">Surpreenda-me</string>
+    <string name="saudacao">Olá</string>
+</resources>
